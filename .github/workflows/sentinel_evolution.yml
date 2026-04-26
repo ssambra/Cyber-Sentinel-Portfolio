@@ -1,0 +1,14 @@
+name: Sentinel Cloud Evolution
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  evolve:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Run Neural Architect
+        run: python3 Technical-Core/Scripts/Level_75000_Neural_Architect.py
