@@ -14,3 +14,6 @@ git push origin main# 🏛️ Sovereign-Sentinel-Unified Architecture
 - **Inference:** Local Ollama / MacBook Air (M-Series Optimization)
 - **Compliance:** DORA Article 5-45 / ENISA Cloud Security Framework
 - **Identity:** Entra ID Behavioral Analytics & Zero-Trust Architecture
+
+### sentinel_check.py
+12-line Python check for DORA Art 6 / NIS2 Art 21 compliance. Flags off-hours admin, brute-force patterns, and missing change control. [View code](sentinel_check.py)
