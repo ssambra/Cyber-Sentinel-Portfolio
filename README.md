@@ -1,3 +1,9 @@
+## Operation Sentinel — 48h DORA/NIS2 IAM Audit Lab
+
+Python detectors that cut IAM review 120→30m. Maps to DORA Art 10 + NIS2 Art 21.
+
+**Get the lab:** DM "ANT" on LinkedIn — I'll send the full code
+**Need it mapped to your stack in 48h?** DM "CHECK" for booking link (B2B/EOR, CET 9-3)
 git add .
 git commit -m "FINAL ASCENSION: Level 10,000 Neural Learning Core Deployed"
 git push origin main# 🏛️ Sovereign-Sentinel-Unified Architecture
