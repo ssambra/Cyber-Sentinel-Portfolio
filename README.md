@@ -1,7 +1,3 @@
-# Operation Sentinel — 48h DORA/NIS2
-if e.role == 'admin' and e.hour not in range(9, 17):
-    flag(e, 'off-hours admin')
-DM 'ANT' for lab | DM 'CHECK' for 48h booking
 
 ## Operation Sentinel — 48h DORA/NIS2 IAM Audit Lab
 
@@ -13,6 +9,11 @@ git add .
 git commit -m "FINAL ASCENSION: Level 10,000 Neural Learning Core Deployed"
 git push origin main# 🏛️ Sovereign-Sentinel-Unified Architecture
 **Current Operational Level:** 8000 (Sovereign Intelligence Mesh)
+
+# Operation Sentinel — 48h DORA/NIS2
+if e.role == 'admin' and e.hour not in range(9, 17):
+    flag(e, 'off-hours admin')
+DM 'ANT' for lab | DM 'CHECK' for 48h booking
 
 ## 📡 Live System Status
 - **Strategy Layer (EU/DORA/ENISA):** [OPERATIONAL]
